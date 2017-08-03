@@ -18,7 +18,7 @@ $ cateow
 ```
 - Expect a random kitty saying "Pet me human slave!"
 ```sh
-$ cateow --meanie "Pet me slave!"
+$ cateow --meanie "Pet me ugly slave!"
 ```
 
 # customize
